@@ -1,6 +1,6 @@
 //============================================================================//
 // **	  				Immortal Home Server	  						   ** //
-// **         				Created by Immortal(SkyChord)                  ** //
+// **         				  Created by Immortal						   ** //
 // **                                                                      ** //
 // **				 Copyright (2012 - 2014) [RIP old days]				   ** //
 //============================================================================//
@@ -14,7 +14,8 @@
   Mod geliþtirme süreci notlarý:
   ---------------------------------------------------------------------------
   Mod samp sürümü: 0.3z                 	  Moda baþlama tarihi: 08/02/2014
-  Mod geliþtiricileri: SkyChord			    Son güncelleme tarihi: 16/02/2014
+  Mod geliþtiricileri: SkyChord			    Son güncelleme tarihi: 26/02/2014
+  - Her ayýn 6, 16 ve 26'sýnda RC sürümü artacaktýr.
   ---------------------------------------------------------------------------
 
 	-> Dialog idleri sýralamasý:
@@ -29,8 +30,8 @@
 #include <supervivencia>
 
 // Server settings:
-#define server_name     "Supervivencia Survival Server [ALPHA][RC1.1]"
-#define server_version  "v1.0.0RC1.1"
+#define server_name     "Supervivencia Survival Server [ALPHA][RC1.2]"
+#define server_version  "v1.0.0RC1.2"
 #define server_modname  "Supervivencia"
 #define server_mapname  "San Andreas"
 
@@ -338,10 +339,8 @@ public OnVehicleDeath(vehicleid, killerid)
 
 public OnPlayerText(playerid, text[])
 {
-	new hour, minute, second;
-	gettime(hour, minute, second);
 	new pText[256 + MAX_PLAYER_NAME];
-	format(pText, sizeof(pText), "[%d/%d/%d] %s {BBBBBB}[%d]: %s", hour, minute, second, pName(playerid), playerid, text);
+	format(pText, sizeof(pText), "%s {BBBBBB}[%d]: %s", pName(playerid), playerid, text);
 	SendClientMessageToAll(GetPlayerColor(playerid), pText);
 	return 0;
 }
