@@ -1,0 +1,993 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[16/02/14 - 07:55:42] 
+[16/02/14 - 07:55:42] Server Plugins
+[16/02/14 - 07:55:42] --------------
+[16/02/14 - 07:55:42]  Loading plugin: mysql
+[16/02/14 - 07:55:42] 
+
+  > MySQL plugin R5 successfully loaded.
+
+[16/02/14 - 07:55:42]   Loaded.
+[16/02/14 - 07:55:42]  Loading plugin: streamer
+[16/02/14 - 07:55:42] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[16/02/14 - 07:55:42]   Loaded.
+[16/02/14 - 07:55:42]  Loaded 2 plugins.
+
+[16/02/14 - 07:55:42] 
+[16/02/14 - 07:55:42] Filterscripts
+[16/02/14 - 07:55:42] ---------------
+[16/02/14 - 07:55:42]   Loading filterscript 'fsdebug.amx'...
+[16/02/14 - 07:55:42] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[16/02/14 - 07:55:42]   * By Simon Campbell *
+  *********************
+[16/02/14 - 07:55:42]   * Version: 0.5d      *
+  *********************
+[16/02/14 - 07:55:42]   * -- LOADED         *
+  *********************
+
+[16/02/14 - 07:55:42]   Loaded 1 filterscripts.
+
+[16/02/14 - 07:55:42] » Supervivencia gamemode initializing.
+[16/02/14 - 07:55:42]   ** Server settings prepared.
+[16/02/14 - 07:55:42]   ** 301 player class loaded.
+[16/02/14 - 07:55:42]   ** MySQL connection successful! [Database: supervivencia / Ping: 1]
+[16/02/14 - 07:55:42]   ** AntiDeAMX started!
+[16/02/14 - 07:55:42]   ** Objects loaded!
+[16/02/14 - 07:55:42] 
+---------------------------------------------------------------
+[16/02/14 - 07:55:42] » Gamemode started! [16/2/2014]
+[16/02/14 - 07:55:42] ---------------------------------------------------------------
+[16/02/14 - 07:55:42] Number of vehicle models: 0
+[16/02/14 - 07:56:15] Incoming connection: 192.168.2.125:61642
+[16/02/14 - 07:56:15] [join] gohome has joined the server (0:192.168.2.125)
+[16/02/14 - 07:56:59] [command] gohome entered "/campfire" command.
+[16/02/14 - 07:58:05] [part] gohome has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[17/02/14 - 01:49:08] 
+[17/02/14 - 01:49:08] Server Plugins
+[17/02/14 - 01:49:08] --------------
+[17/02/14 - 01:49:08]  Loading plugin: mysql
+[17/02/14 - 01:49:09] 
+
+  > MySQL plugin R5 successfully loaded.
+
+[17/02/14 - 01:49:09]   Loaded.
+[17/02/14 - 01:49:09]  Loading plugin: streamer
+[17/02/14 - 01:49:09] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[17/02/14 - 01:49:09]   Loaded.
+[17/02/14 - 01:49:09]  Loaded 2 plugins.
+
+[17/02/14 - 01:49:09] 
+[17/02/14 - 01:49:09] Filterscripts
+[17/02/14 - 01:49:09] ---------------
+[17/02/14 - 01:49:09]   Loading filterscript 'fsdebug.amx'...
+[17/02/14 - 01:49:09] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[17/02/14 - 01:49:09]   * By Simon Campbell *
+  *********************
+[17/02/14 - 01:49:09]   * Version: 0.5d      *
+  *********************
+[17/02/14 - 01:49:09]   * -- LOADED         *
+  *********************
+
+[17/02/14 - 01:49:09]   Loaded 1 filterscripts.
+
+[17/02/14 - 01:49:09] » Supervivencia gamemode initializing.
+[17/02/14 - 01:49:09]   ** Server settings prepared.
+[17/02/14 - 01:49:09]   ** 301 player class loaded.
+[17/02/14 - 01:49:09]   ** MySQL connection successful! [Host: localhost / Database: supervivencia]
+[17/02/14 - 01:49:09]   ** AntiDeAMX started!
+[17/02/14 - 01:49:09]   ** Objects loaded!
+[17/02/14 - 01:49:09] 
+---------------------------------------------------------------
+[17/02/14 - 01:49:09] » Gamemode started! [17/2/2014]
+[17/02/14 - 01:49:09] ---------------------------------------------------------------
+[17/02/14 - 01:49:09] Number of vehicle models: 0
+[17/02/14 - 01:49:48] Incoming connection: 192.168.2.125:63902
+[17/02/14 - 01:49:48] [join] gohome has joined the server (0:192.168.2.125)
+[17/02/14 - 01:50:25] [part] gohome has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[17/02/14 - 02:04:13] 
+[17/02/14 - 02:04:13] Server Plugins
+[17/02/14 - 02:04:13] --------------
+[17/02/14 - 02:04:13]  Loading plugin: mysql
+[17/02/14 - 02:04:13] 
+
+  > MySQL plugin R5 successfully loaded.
+
+[17/02/14 - 02:04:13]   Loaded.
+[17/02/14 - 02:04:13]  Loading plugin: streamer
+[17/02/14 - 02:04:13] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[17/02/14 - 02:04:13]   Loaded.
+[17/02/14 - 02:04:13]  Loaded 2 plugins.
+
+[17/02/14 - 02:04:13] 
+[17/02/14 - 02:04:13] Filterscripts
+[17/02/14 - 02:04:13] ---------------
+[17/02/14 - 02:04:13]   Loading filterscript 'fsdebug.amx'...
+[17/02/14 - 02:04:13] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[17/02/14 - 02:04:13]   * By Simon Campbell *
+  *********************
+[17/02/14 - 02:04:13]   * Version: 0.5d      *
+  *********************
+[17/02/14 - 02:04:13]   * -- LOADED         *
+  *********************
+
+[17/02/14 - 02:04:13]   Loaded 1 filterscripts.
+
+[17/02/14 - 02:04:13] » Supervivencia gamemode initializing.
+[17/02/14 - 02:04:13]   ** Server settings prepared.
+[17/02/14 - 02:04:13]   ** 301 player class loaded.
+[17/02/14 - 02:04:13]   ** MySQL connection successful! [Host: localhost / Database: supervivencia]
+[17/02/14 - 02:04:13]   ** AntiDeAMX started!
+[17/02/14 - 02:04:13]   ** Objects loaded!
+[17/02/14 - 02:04:13] 
+---------------------------------------------------------------
+[17/02/14 - 02:04:13] » Gamemode started! [17/2/2014]
+[17/02/14 - 02:04:13] ---------------------------------------------------------------
+[17/02/14 - 02:04:13] Number of vehicle models: 0
+[17/02/14 - 02:04:32] Incoming connection: 192.168.2.125:61528
+[17/02/14 - 02:04:32] [join] gohome has joined the server (0:192.168.2.125)
+[17/02/14 - 02:06:42] [part] gohome has left the server (0:1)
+[17/02/14 - 02:07:02] Incoming connection: 192.168.2.125:54444
+[17/02/14 - 02:07:03] [join] gohome has joined the server (0:192.168.2.125)
+[17/02/14 - 02:07:04] [part] gohome has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[17/02/14 - 02:13:06] 
+[17/02/14 - 02:13:06] Server Plugins
+[17/02/14 - 02:13:06] --------------
+[17/02/14 - 02:13:06]  Loading plugin: mysql
+[17/02/14 - 02:13:06] 
+
+  > MySQL plugin R5 successfully loaded.
+
+[17/02/14 - 02:13:06]   Loaded.
+[17/02/14 - 02:13:06]  Loading plugin: streamer
+[17/02/14 - 02:13:06] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[17/02/14 - 02:13:06]   Loaded.
+[17/02/14 - 02:13:06]  Loaded 2 plugins.
+
+[17/02/14 - 02:13:06] 
+[17/02/14 - 02:13:06] Filterscripts
+[17/02/14 - 02:13:06] ---------------
+[17/02/14 - 02:13:06]   Loading filterscript 'fsdebug.amx'...
+[17/02/14 - 02:13:06] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[17/02/14 - 02:13:06]   * By Simon Campbell *
+  *********************
+[17/02/14 - 02:13:06]   * Version: 0.5d      *
+  *********************
+[17/02/14 - 02:13:06]   * -- LOADED         *
+  *********************
+
+[17/02/14 - 02:13:06]   Loaded 1 filterscripts.
+
+[17/02/14 - 02:13:06] » Supervivencia gamemode initializing.
+[17/02/14 - 02:13:06]   ** Server settings prepared.
+[17/02/14 - 02:13:06]   ** 301 player class loaded.
+[17/02/14 - 02:13:06]   ** MySQL connection successful! [Host: localhost / Database: supervivencia]
+[17/02/14 - 02:13:06]   ** AntiDeAMX started!
+[17/02/14 - 02:13:06]   ** Objects loaded!
+[17/02/14 - 02:13:06] 
+---------------------------------------------------------------
+[17/02/14 - 02:13:06] » Gamemode started! [17/2/2014]
+[17/02/14 - 02:13:06] ---------------------------------------------------------------
+[17/02/14 - 02:13:06] Number of vehicle models: 0
+[17/02/14 - 02:13:25] Incoming connection: 192.168.2.125:65423
+[17/02/14 - 02:13:25] [join] gohome has joined the server (0:192.168.2.125)
+[17/02/14 - 02:13:32] [part] gohome has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[17/02/14 - 13:19:05] 
+[17/02/14 - 13:19:05] Server Plugins
+[17/02/14 - 13:19:05] --------------
+[17/02/14 - 13:19:05]  Loading plugin: mysql
+[17/02/14 - 13:19:05] 
+
+  > MySQL plugin R5 successfully loaded.
+
+[17/02/14 - 13:19:05]   Loaded.
+[17/02/14 - 13:19:05]  Loading plugin: streamer
+[17/02/14 - 13:19:05] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[17/02/14 - 13:19:05]   Loaded.
+[17/02/14 - 13:19:05]  Loaded 2 plugins.
+
+[17/02/14 - 13:19:05] 
+[17/02/14 - 13:19:05] Filterscripts
+[17/02/14 - 13:19:05] ---------------
+[17/02/14 - 13:19:05]   Loading filterscript 'fsdebug.amx'...
+[17/02/14 - 13:19:05] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[17/02/14 - 13:19:05]   * By Simon Campbell *
+  *********************
+[17/02/14 - 13:19:05]   * Version: 0.5d      *
+  *********************
+[17/02/14 - 13:19:05]   * -- LOADED         *
+  *********************
+
+[17/02/14 - 13:19:05]   Loaded 1 filterscripts.
+
+[17/02/14 - 13:19:05] » Supervivencia gamemode initializing.
+[17/02/14 - 13:19:05]   ** Server settings prepared.
+[17/02/14 - 13:19:05]   ** 301 player class loaded.
+[17/02/14 - 13:19:05]   ** MySQL connection successful! [Host: localhost / Database: supervivencia]
+[17/02/14 - 13:19:05]   ** AntiDeAMX started!
+[17/02/14 - 13:19:05]   ** Objects loaded!
+[17/02/14 - 13:19:05] 
+---------------------------------------------------------------
+[17/02/14 - 13:19:05] » Gamemode started! [17/2/2014]
+[17/02/14 - 13:19:05] ---------------------------------------------------------------
+[17/02/14 - 13:19:05] Number of vehicle models: 0
+[17/02/14 - 13:19:42] Incoming connection: 192.168.2.125:62725
+[17/02/14 - 13:19:43] [join] gohome has joined the server (0:192.168.2.125)
+[17/02/14 - 13:19:48] [part] gohome has left the server (0:2)
+[17/02/14 - 13:58:12] --- Server Shutting Down.
+[17/02/14 - 13:58:12]   ** MySQL connection closed!
+[17/02/14 - 13:58:12] » Supervivencia gamemode closed.
+[17/02/14 - 13:58:12] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[17/02/14 - 13:58:12]   * -- SHUTDOWN       *
+  *********************
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[24/02/14 - 02:35:31] 
+[24/02/14 - 02:35:31] Server Plugins
+[24/02/14 - 02:35:31] --------------
+[24/02/14 - 02:35:31]  Loading plugin: mysql
+[24/02/14 - 02:35:31] 
+
+  > MySQL plugin R5 successfully loaded.
+
+[24/02/14 - 02:35:31]   Loaded.
+[24/02/14 - 02:35:31]  Loading plugin: streamer
+[24/02/14 - 02:35:31] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[24/02/14 - 02:35:31]   Loaded.
+[24/02/14 - 02:35:31]  Loaded 2 plugins.
+
+[24/02/14 - 02:35:31] 
+[24/02/14 - 02:35:31] Filterscripts
+[24/02/14 - 02:35:31] ---------------
+[24/02/14 - 02:35:31]   Loading filterscript 'fsdebug.amx'...
+[24/02/14 - 02:35:31] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[24/02/14 - 02:35:31]   * By Simon Campbell *
+  *********************
+[24/02/14 - 02:35:31]   * Version: 0.5d      *
+  *********************
+[24/02/14 - 02:35:31]   * -- LOADED         *
+  *********************
+
+[24/02/14 - 02:35:31]   Loaded 1 filterscripts.
+
+[24/02/14 - 02:35:31] » Supervivencia gamemode initializing.
+[24/02/14 - 02:35:31]   ** Server settings prepared.
+[24/02/14 - 02:35:31]   ** 301 player class loaded.
+[24/02/14 - 02:35:32]   ** MySQL connection successful! [Host: localhost / Database: supervivencia]
+[24/02/14 - 02:35:32]   ** AntiDeAMX started!
+[24/02/14 - 02:35:32]   ** Objects loaded!
+[24/02/14 - 02:35:32] 
+---------------------------------------------------------------
+[24/02/14 - 02:35:32] » Gamemode started! [24/2/2014]
+[24/02/14 - 02:35:32] ---------------------------------------------------------------
+[24/02/14 - 02:35:32] Number of vehicle models: 0
+[24/02/14 - 02:36:18] Incoming connection: 192.168.2.125:56481
+[24/02/14 - 02:36:18] [join] gohome has joined the server (0:192.168.2.125)
+[24/02/14 - 02:37:04] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[26/02/14 - 23:09:21] 
+[26/02/14 - 23:09:21] Server Plugins
+[26/02/14 - 23:09:21] --------------
+[26/02/14 - 23:09:21]  Loading plugin: mysql
+[26/02/14 - 23:09:22] 
+
+  > MySQL plugin R5 successfully loaded.
+
+[26/02/14 - 23:09:22]   Loaded.
+[26/02/14 - 23:09:22]  Loading plugin: streamer
+[26/02/14 - 23:09:22] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[26/02/14 - 23:09:22]   Loaded.
+[26/02/14 - 23:09:22]  Loaded 2 plugins.
+
+[26/02/14 - 23:09:22] 
+[26/02/14 - 23:09:22] Filterscripts
+[26/02/14 - 23:09:22] ---------------
+[26/02/14 - 23:09:22]   Loading filterscript 'fsdebug.amx'...
+[26/02/14 - 23:09:22] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[26/02/14 - 23:09:22]   * By Simon Campbell *
+  *********************
+[26/02/14 - 23:09:22]   * Version: 0.5d      *
+  *********************
+[26/02/14 - 23:09:22]   * -- LOADED         *
+  *********************
+
+[26/02/14 - 23:09:22]   Loaded 1 filterscripts.
+
+[26/02/14 - 23:09:22] » Supervivencia gamemode initializing.
+[26/02/14 - 23:09:22]   ** Server settings prepared.
+[26/02/14 - 23:09:22]   ** 301 player class loaded.
+[26/02/14 - 23:09:23]   ** MySQL connection failed!
+[26/02/14 - 23:09:23]   ** AntiDeAMX started!
+[26/02/14 - 23:09:23]   ** Objects loaded!
+[26/02/14 - 23:09:23] 
+---------------------------------------------------------------
+[26/02/14 - 23:09:23] » Gamemode started! [26/2/2014]
+[26/02/14 - 23:09:23] ---------------------------------------------------------------
+[26/02/14 - 23:09:23] Number of vehicle models: 0
+[26/02/14 - 23:09:26] [query:i] from 192.168.2.125
+[26/02/14 - 23:09:26] [query:p] from 192.168.2.125
+[26/02/14 - 23:09:35] [query:i] from 192.168.2.125
+[26/02/14 - 23:09:35] [query:p] from 192.168.2.125
+[26/02/14 - 23:09:35] [query:c] from 192.168.2.125
+[26/02/14 - 23:09:35] [query:r] from 192.168.2.125
+[26/02/14 - 23:09:35] [query:p] from 192.168.2.125
+[26/02/14 - 23:09:36] [query:p] from 192.168.2.125
+[26/02/14 - 23:09:39] [query:i] from 192.168.2.125
+[26/02/14 - 23:09:39] [query:p] from 192.168.2.125
+[26/02/14 - 23:09:39] [query:c] from 192.168.2.125
+[26/02/14 - 23:09:39] [query:r] from 192.168.2.125
+[26/02/14 - 23:09:39] [query:p] from 192.168.2.125
+[26/02/14 - 23:09:41] [query:p] from 192.168.2.125
+[26/02/14 - 23:09:52] [query:i] from 192.168.2.125
+[26/02/14 - 23:09:52] [query:p] from 192.168.2.125
+[26/02/14 - 23:09:52] [query:c] from 192.168.2.125
+[26/02/14 - 23:09:52] [query:r] from 192.168.2.125
+[26/02/14 - 23:09:52] [query:p] from 192.168.2.125
+[26/02/14 - 23:09:55] [query:p] from 192.168.2.125
+[26/02/14 - 23:09:58] [query:p] from 192.168.2.125
+[26/02/14 - 23:10:18] Incoming connection: 192.168.2.125:50028
+[26/02/14 - 23:10:18] [join] gohome has joined the server (0:192.168.2.125)
+[26/02/14 - 23:10:24] [chat] [gohome]: hello
+[26/02/14 - 23:11:18] [chat] [gohome]: 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678
+[26/02/14 - 23:11:19] [chat] [gohome]: 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678
+[26/02/14 - 23:11:21] [chat] [gohome]: 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567
+[26/02/14 - 23:11:22] [chat] [gohome]: 123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456
+[26/02/14 - 23:11:23] [chat] [gohome]: 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678
+[26/02/14 - 23:11:25] [chat] [gohome]: 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
+[26/02/14 - 23:11:27] [chat] [gohome]: 123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+[26/02/14 - 23:11:29] [chat] [gohome]: 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901
+[26/02/14 - 23:11:30] [chat] [gohome]: 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012
+[26/02/14 - 23:11:31] [chat] [gohome]: 123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123
+[26/02/14 - 23:11:32] [chat] [gohome]: 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
+[26/02/14 - 23:11:34] [chat] [gohome]: 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345
+[26/02/14 - 23:11:35] [chat] [gohome]: 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345
+[26/02/14 - 23:12:16] [query:i] from 192.168.2.125
+[26/02/14 - 23:12:16] [query:p] from 192.168.2.125
+[26/02/14 - 23:12:16] [query:c] from 192.168.2.125
+[26/02/14 - 23:12:16] [query:r] from 192.168.2.125
+[26/02/14 - 23:12:16] [query:p] from 192.168.2.125
+Console input: gmx
+[26/02/14 - 23:12:23]   ** MySQL connection closed!
+[26/02/14 - 23:12:23] » Supervivencia gamemode closed.
+[26/02/14 - 23:12:35] » Supervivencia gamemode initializing.
+[26/02/14 - 23:12:35]   ** Server settings prepared.
+[26/02/14 - 23:12:35]   ** 301 player class loaded.
+[26/02/14 - 23:12:36]   ** MySQL connection failed!
+[26/02/14 - 23:12:36]   ** AntiDeAMX started!
+[26/02/14 - 23:12:36]   ** Objects loaded!
+[26/02/14 - 23:12:36] 
+---------------------------------------------------------------
+[26/02/14 - 23:12:36] » Gamemode started! [26/2/2014]
+[26/02/14 - 23:12:36] ---------------------------------------------------------------
+[26/02/14 - 23:12:36] Number of vehicle models: 0
+[26/02/14 - 23:12:43] Warning: client exceeded 'messageholelimit' (1) 192.168.2.125:50028 (384) Limit: 128
+[26/02/14 - 23:12:53] [part] gohome has left the server (0:0)
+Console input: gmx
+[26/02/14 - 23:13:50]   ** MySQL connection closed!
+[26/02/14 - 23:13:50] » Supervivencia gamemode closed.
+[26/02/14 - 23:14:02] » Supervivencia gamemode initializing.
+[26/02/14 - 23:14:02]   ** Server settings prepared.
+[26/02/14 - 23:14:02]   ** 301 player class loaded.
+[26/02/14 - 23:14:03]   ** MySQL connection failed!
+[26/02/14 - 23:14:03]   ** AntiDeAMX started!
+[26/02/14 - 23:14:03]   ** Objects loaded!
+[26/02/14 - 23:14:03] 
+---------------------------------------------------------------
+[26/02/14 - 23:14:03] » Gamemode started! [26/2/2014]
+[26/02/14 - 23:14:03] ---------------------------------------------------------------
+[26/02/14 - 23:14:03] Number of vehicle models: 0
+[26/02/14 - 23:14:13] Incoming connection: 192.168.2.125:58399
+[26/02/14 - 23:14:14] [join] gohome has joined the server (0:192.168.2.125)
+[26/02/14 - 23:14:17] [chat] [gohome]: hel
+[26/02/14 - 23:14:20] [chat] [gohome]: yeah
+[26/02/14 - 23:14:21] [chat] [gohome]: yeah
+[26/02/14 - 23:14:23] [chat] [gohome]: yeah
+[26/02/14 - 23:14:24] [chat] [gohome]: nono
+[26/02/14 - 23:14:26] [chat] [gohome]: jason
+[26/02/14 - 23:14:27] [chat] [gohome]: no
+[26/02/14 - 23:14:28] [chat] [gohome]: pls
+[26/02/14 - 23:14:32] [command] gohome entered "/campfire" command.
+[26/02/14 - 23:14:40] [command] gohome entered "/guitar" command.
+[26/02/14 - 23:14:45] [command] gohome entered "/guitar" command.
+[26/02/14 - 23:14:51] [query:p] from 192.168.2.125
+[26/02/14 - 23:14:56] [chat] [gohome]: fuck
+[26/02/14 - 23:15:18] [command] gohome entered "/guitar" command.
+[26/02/14 - 23:15:22] [part] gohome has left the server (0:1)
+[26/02/14 - 23:15:24] --- Server Shutting Down.
+[26/02/14 - 23:15:24]   ** MySQL connection closed!
+[26/02/14 - 23:15:24] » Supervivencia gamemode closed.
+[26/02/14 - 23:15:24] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[26/02/14 - 23:15:24]   * -- SHUTDOWN       *
+  *********************
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+
+Server Plugins
+--------------
+ Loading plugin: mysql
+
+
+  > MySQL plugin R5 successfully loaded.
+
+  Loaded.
+ Loading plugin: streamer
+
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+  Loaded.
+ Loaded 2 plugins.
+
+
+Filterscripts
+---------------
+  Loading filterscript 'fsdebug.amx'...
+
+  *********************
+  * SA:MP DEBUG 0.2   *
+  * By Simon Campbell *
+  *********************
+  * Version: 0.5d      *
+  *********************
+  * -- LOADED         *
+  *********************
+
+  Loaded 1 filterscripts.
+
+» Supervivencia gamemode initializing.
+  ** Server settings prepared.
+  ** 301 player class loaded.
+  ** MySQL connection failed!
+  ** AntiDeAMX started!
+  ** Objects loaded!
+
+---------------------------------------------------------------
+» Gamemode started! [23/3/2015]
+---------------------------------------------------------------
+Number of vehicle models: 0
+[query:p] from 127.0.0.1
+[query:i] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:c] from 127.0.0.1
+[query:r] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:i] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:c] from 127.0.0.1
+[query:r] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:i] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:c] from 127.0.0.1
+[query:r] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:i] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:c] from 127.0.0.1
+[query:r] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:i] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:c] from 127.0.0.1
+[query:r] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:i] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:c] from 127.0.0.1
+[query:r] from 127.0.0.1
+[query:p] from 127.0.0.1
+Incoming connection: 127.0.0.1:58804
+[join] hahahah has joined the server (0:127.0.0.1)
+[command] hahahah entered "/help" command.
+[command] hahahah entered "/guitar" command.
+[command] hahahah entered "/guitardown" command.
+[command] hahahah entered "/guitar" command.
+[command] hahahah entered "/guitardown" command.
+[command] hahahah entered "/guitar" command.
+[command] hahahah entered "/guitardown" command.
+[command] hahahah entered "/guitar" command.
+[command] hahahah entered "/guitardown" command.
+[command] hahahah entered "/guitar" command.
+[command] hahahah entered "/guitardown" command.
+[command] hahahah entered "/guitar" command.
+[command] hahahah entered "/guitardown" command.
+[command] hahahah entered "/radpills" command.
+[command] hahahah entered "/jetpack" command.
+[command] hahahah entered "/cmd" command.
+[command] hahahah entered "/cmds" command.
+[part] hahahah has left the server (0:1)
+[query:p] from 127.0.0.1
+[query:p] from 127.0.0.1
+Console input: exit
+--- Server Shutting Down.
+  ** MySQL connection closed!
+» Supervivencia gamemode closed.
+
+  *********************
+  * SA:MP DEBUG 0.2   *
+  * -- SHUTDOWN       *
+  *********************
+
+
+
+  > MySQL plugin unloaded.
+
+
+
+*** Streamer Plugin v2.6.1 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+
+Server Plugins
+--------------
+ Loading plugin: mysql
+
+
+  > MySQL plugin R5 successfully loaded.
+
+  Loaded.
+ Loading plugin: streamer
+
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+  Loaded.
+ Loaded 2 plugins.
+
+
+Filterscripts
+---------------
+  Loading filterscript 'fsdebug.amx'...
+
+  *********************
+  * SA:MP DEBUG 0.2   *
+  * By Simon Campbell *
+  *********************
+  * Version: 0.5d      *
+  *********************
+  * -- LOADED         *
+  *********************
+
+  Loaded 1 filterscripts.
+
+» Supervivencia gamemode initializing.
+  ** Server settings prepared.
+  ** 301 player class loaded.
+  ** MySQL connection failed!
+  ** AntiDeAMX started!
+  ** Objects loaded!
+
+---------------------------------------------------------------
+» Gamemode started! [30/3/2015]
+---------------------------------------------------------------
+Number of vehicle models: 0
+[query:p] from 127.0.0.1
+[query:i] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:c] from 127.0.0.1
+[query:r] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:i] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:c] from 127.0.0.1
+[query:r] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:i] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:c] from 127.0.0.1
+[query:r] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:i] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:c] from 127.0.0.1
+[query:r] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:i] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:c] from 127.0.0.1
+[query:r] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:i] from 127.0.0.1
+[query:p] from 127.0.0.1
+[query:c] from 127.0.0.1
+[query:r] from 127.0.0.1
+[query:p] from 127.0.0.1
+Incoming connection: 127.0.0.1:54811
+[join] littlewild has joined the server (0:127.0.0.1)
+[command] littlewild entered "/radadd" command.
+[command] littlewild entered "/addrad" command.
+[command] littlewild entered "/addrad" command.
+[command] littlewild entered "/addrad" command.
+[command] littlewild entered "/addrad" command.
+[command] littlewild entered "/addrad" command.
+[command] littlewild entered "/addrad" command.
+[command] littlewild entered "/addrad" command.
+[command] littlewild entered "/addrad" command.
+[command] littlewild entered "/addrad" command.
+[command] littlewild entered "/addrad" command.
+[command] littlewild entered "/addrad" command.
+[command] littlewild entered "/addrad" command.
+[command] littlewild entered "/spawn" command.
+[command] littlewild entered "/kill" command.
+[command] littlewild entered "/cmds" command.
+[command] littlewild entered "/commands" command.
+[command] littlewild entered "/help" command.
+[command] littlewild entered "/credits" command.
+[command] littlewild entered "/hola" command.
+[command] littlewild entered "/kick" command.
+[command] littlewild entered "/ban" command.
+[command] littlewild entered "/guitar" command.
+[command] littlewild entered "/campfire" command.
+[command] littlewild entered "/firedown" command.
+[command] littlewild entered "/guitardown" command.
+[command] littlewild entered "/campfire" command.
+[command] littlewild entered "/firedown" command.
+[command] littlewild entered "/firedown" command.
+[command] littlewild entered "/campfire" command.
+[command] littlewild entered "/firedown" command.
+[command] littlewild entered "/campfire" command.
+[command] littlewild entered "/firedown" command.
+[command] littlewild entered "/campfire" command.
+[command] littlewild entered "/firedown" command.
+[command] littlewild entered "/campfire" command.
+[command] littlewild entered "/firedown" command.
+[command] littlewild entered "/campfire" command.
+[command] littlewild entered "/firedown" command.
+[command] littlewild entered "/firedown" command.
+[command] littlewild entered "/firedown" command.
+[command] littlewild entered "/campfire" command.
+[command] littlewild entered "/firedown" command.
+[command] littlewild entered "/campfire" command.
+[command] littlewild entered "/campfire" command.
+[command] littlewild entered "/firedown" command.
+[command] littlewild entered "/campfire" command.
+[command] littlewild entered "/firedown" command.
+[command] littlewild entered "/flare" command.
+[command] littlewild entered "/campfire" command.
+[command] littlewild entered "/firedown" command.
+[command] littlewild entered "/firedown" command.
+[command] littlewild entered "/campfire" command.
+[command] littlewild entered "/guitar" command.
+[command] littlewild entered "/guitardown" command.
+[chat] [littlewild]: ow
+[chat] [littlewild]: hungry
+[chat] [littlewild]: D:
+[chat] [littlewild]: umm
+[chat] [littlewild]: it's working?
+[chat] [littlewild]: 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678
+[chat] [littlewild]: 123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+[chat] [littlewild]: 123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+[chat] [littlewild]: 123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+[chat] [littlewild]: 123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+[chat] [littlewild]: 123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+[chat] [littlewild]: 123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+[chat] [littlewild]: 123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+[chat] [littlewild]: 123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+[chat] [littlewild]: 123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+[chat] [littlewild]: like noob
+[chat] [littlewild]: D:
+[chat] [littlewild]: but i like concept
+[chat] [littlewild]: yeah
+[part] littlewild has left the server (0:1)
+[query:p] from 127.0.0.1
+[query:p] from 127.0.0.1
+Console input: exit
+--- Server Shutting Down.
+  ** MySQL connection closed!
+» Supervivencia gamemode closed.
+
+  *********************
+  * SA:MP DEBUG 0.2   *
+  * -- SHUTDOWN       *
+  *********************
+
+
+
+  > MySQL plugin unloaded.
+
+
+
+*** Streamer Plugin v2.6.1 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+
+Server Plugins
+--------------
+ Loading plugin: mysql
+
+
+  > MySQL plugin R5 successfully loaded.
+
+  Loaded.
+ Loading plugin: streamer
+
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+  Loaded.
+ Loaded 2 plugins.
+
+
+Filterscripts
+---------------
+  Loading filterscript 'fsdebug.amx'...
+
+  *********************
+  * SA:MP DEBUG 0.2   *
+  * By Simon Campbell *
+  *********************
+  * Version: 0.5d      *
+  *********************
+  * -- LOADED         *
+  *********************
+
+  Loaded 1 filterscripts.
+
+» Supervivencia gamemode initializing.
+  ** Server settings prepared.
+  ** 301 player class loaded.
+  ** MySQL connection failed!
+  ** AntiDeAMX started!
+  ** Objects loaded!
+
+---------------------------------------------------------------
+» Gamemode started! [30/3/2015]
+---------------------------------------------------------------
+Number of vehicle models: 0
+[query:i] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:i] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:c] from 192.168.2.79
+[query:r] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:i] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:c] from 192.168.2.79
+[query:r] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:i] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:c] from 192.168.2.79
+[query:r] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:i] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:c] from 192.168.2.79
+[query:r] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:i] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:c] from 192.168.2.79
+[query:r] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:i] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:c] from 192.168.2.79
+[query:r] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:i] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:c] from 192.168.2.79
+[query:r] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:i] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:c] from 192.168.2.79
+[query:r] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:i] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:c] from 192.168.2.79
+[query:r] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:i] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:c] from 192.168.2.79
+[query:r] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:i] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:c] from 192.168.2.79
+[query:r] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:i] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:c] from 192.168.2.79
+[query:r] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:i] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:c] from 192.168.2.79
+[query:r] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:i] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:c] from 192.168.2.79
+[query:r] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:i] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:c] from 192.168.2.79
+[query:r] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:i] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:c] from 192.168.2.79
+[query:r] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:i] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:c] from 192.168.2.79
+[query:r] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:i] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:c] from 192.168.2.79
+[query:r] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:i] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:c] from 192.168.2.79
+[query:r] from 192.168.2.79
+[query:p] from 192.168.2.79
+Incoming connection: 192.168.2.79:54578
+[join] ladies has joined the server (0:192.168.2.79)
+[command] ladies entered "/campfire" command.
+[command] ladies entered "/firedown" command.
+[command] ladies entered "/firedown" command.
+[command] ladies entered "/firedown" command.
+[command] ladies entered "/firedown" command.
+[death] ladies died 54
+Warning: client exceeded 'messageholelimit' (1) 192.168.2.79:54578 (511) Limit: 256
+[part] ladies has left the server (0:0)
+[query:i] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:c] from 192.168.2.79
+[query:r] from 192.168.2.79
+[query:p] from 192.168.2.79
+[query:p] from 192.168.2.79
